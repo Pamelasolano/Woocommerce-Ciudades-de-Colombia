@@ -1152,6 +1152,8 @@ function  wc_co_municipios( $states ) {
 		'CO1120' => 'Zipacón - Cundinamarca',
 		'CO1121' => 'Zipaquirá - Cundinamarca',
 		'CO1122' => 'Zona Bananera - Magdalena',
+	        'CO1123' => 'Poblado - Antioquia',
+	        'CO1122' => 'Belen - Antioquia',
     );
     return $states;
 }
